@@ -1,2 +1,7 @@
 .evn
 node-modules/
+# vs code缓存
+.vs/
+.vscode/*.json
+*.sqlite
+*.vsuo
